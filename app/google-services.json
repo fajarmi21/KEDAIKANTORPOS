@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "171075037280",
+    "firebase_url": "https://proyek-2-cf35c.firebaseio.com",
+    "project_id": "proyek-2-cf35c",
+    "storage_bucket": "proyek-2-cf35c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171075037280:android:bdfad49c507eb621a17b05",
+        "android_client_info": {
+          "package_name": "com.polinema.android.kotlin.kedaikantorpos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171075037280-7q5q95am5ffpu6pa0p1h35ckoqp7l2l2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.polinema.android.kotlin.kedaikantorpos",
+            "certificate_hash": "11a650b9794c71de1e31b4c7921af3394051e808"
+          }
+        },
+        {
+          "client_id": "171075037280-lupnit0f01lifnfllqgikc6em5s8gcbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIYeKp-oAmS1Omcej04JcTdsketJ1aLag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171075037280-lupnit0f01lifnfllqgikc6em5s8gcbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
